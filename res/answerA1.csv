@@ -1,0 +1,3 @@
+,fare_amount_p_5,fare_amount_p_50,fare_amount_p_95,tip_amount_p_5,tip_amount_p_50,tip_amount_p_95,total_amount_p_5,total_amount_p_50,total_amount_p_95
+trip_distance<=2.8,4.0,7.5,14.0,0.0,1.7,3.54,7.8,12.8,20.16
+trip_distance>2.8,12.0,20.5,52.0,0.0,3.55,12.25,17.16,27.36,73.67
